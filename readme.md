@@ -22,7 +22,7 @@ Durante a resolução dos problemas, foram utilizadas diversas habilidades e com
 ## Estrutura do Repositório
 
 - **/solutions**: Pasta contendo as soluções para os desafios, organizadas em arquivos de texto. Cada arquivo corresponde a um desafio específico e inclui a query SQL usada para resolver o problema.
-- **/screenshots**: Pasta contendo os prints das soluções confirmadas como corretas na plataforma de desafios.
+- **/print**: Pasta contendo os prints das soluções confirmadas como corretas na plataforma de desafios.
 
 ## Problemas Resolvidos
 
