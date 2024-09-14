@@ -22,7 +22,7 @@ Durante a resolução dos problemas, foram utilizadas diversas habilidades e com
 ## Estrutura do Repositório
 
 - **/solutions**: Pasta contendo as soluções para os desafios, organizadas em arquivos de texto. Cada arquivo corresponde a um desafio específico e inclui a query SQL usada para resolver o problema.
-- **/print**: Pasta contendo os prints das soluções confirmadas como corretas na plataforma de desafios.
+- **/prints**: Pasta contendo os prints das soluções confirmadas como corretas na plataforma de desafios.
 
 ## Problemas Resolvidos
 
@@ -50,4 +50,4 @@ Sinta-se à vontade para clonar este repositório, realizar melhorias nas soluç
 
 ---
 
-Este repositório foi criado como parte de um desafio de SQL, e as soluções foram verificadas e confirmadas como corretas na plataforma de desafios.
+Este repositório foi criado como parte de um desafio de SQL, e as soluções foram verificadas e confirmadas como corretas na plataforma [Beecrowd](https://judge.beecrowd.com/en/).
